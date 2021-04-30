@@ -62,7 +62,7 @@
             Grid.Column="0"
             BackgroundColor="IndianRed"
             Clicked="OnClear"
-            FontSize="20"
+            FontSize="21"
             Style="{StaticResource infostyle}"
             Text="AC" />
         <Button
